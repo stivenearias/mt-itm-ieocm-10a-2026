@@ -1,0 +1,5 @@
+# ESTE ARCHIVO ES EL MODULO PARA LAS CONSTANTES
+# Aca vamos a crear todas las constantes.
+PI = 3.14159
+GRAVITY = 9.8
+SPEED_OF_LIGHT = 299792458
